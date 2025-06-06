@@ -1,2 +1,5 @@
 # Testowl-IssueTracker
-Issue tracker for the Testowl plugin
+
+## Documentation
+The documentation can be found [here](doc/doc.md)
+
