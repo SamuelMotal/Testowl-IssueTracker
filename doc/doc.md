@@ -11,7 +11,7 @@ Until then, the early access version of the plugin can be used free of charge.**
 
 ## Getting Started
 
-### Install the plugin from the Jetbrains Marketplace
+### Install the Plugin from the Jetbrains Marketplace
 
 1) To be able to download and install Testowl from the Jetbrains Marketplace you first need to the eap release channel of Testowl to your repsitories.
 Go to **Settings -> Plugins**. Click the settings icon at the top of the window and choose *"Manage plugin repositories"*.
@@ -91,7 +91,7 @@ A line that is covered by any test in your project is marked with a green (only 
 
 
 
-### Show covering tests
+### Show covering Tests
 
 Clicking on a coverage marker opens a list of all test cases that cover this line. This not only provides detailed insights into the code coverage, but also enables quick navigation between production and test code.
 
@@ -101,7 +101,7 @@ Clicking on a coverage marker opens a list of all test cases that cover this lin
 
 While the coverage markers provide an overview of the test status of the code currently being processed, the Window tool provides an overview of the test status of the entire project and allow to inspect failing tests further by viewing the standard output or the stack trace.
 
-#### Reset button
+#### Reset Button
 
 This button enables a complete reset of the plugin for this project. This means that all classes are reanalyzed and all tests are executed again. For larger projects, a reset can take a while.
 
@@ -203,10 +203,14 @@ configuration.testTimeout = 1000
 
 ## Limitations
 
-### Parallelization of test runs
+### Parallelization of Test Runs
 
 Currently parallization is not supported, although it will be supported in the future. This means that if you have configured parallel test execution in Junit 5, for example, Testowl's intelligent test selection will not work reliably. Under certain circumstances, not all impacted tests will be executed.
 
 ### Build Frameworks
 
 Tests are executed with the Testowl test runner itself. No build framework such as Gradle, Maven or Ant is used for this. This means that tasks upstream of testing that are executed in the build framework are not executed in Testowl's test runner. Please make sure that all tests can be executed independently without being dependent on the build system. Various properties such as JVM parameters can be specified via the plugin configuration (see [Plugin Configuration](#Plugin-Configuration)).
+
+## Further Resources
+
+**Testowl product video** https://youtu.be/_bDQ2y3zFMs
