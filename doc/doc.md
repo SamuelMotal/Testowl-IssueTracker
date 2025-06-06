@@ -239,4 +239,8 @@ Tests are executed with the Testowl test runner itself. No build framework such 
 | org.javassist:javassist                    | 3.30.2-GA          | [Apache License 2.0](/doc/licenses/ApacheLicense2.0.txt)  |Information according to section 4b: Packages and classfiles of the library were renamed for technical reasons. This is also known as "shading" and was done via the [Maven Shade plugin](https://maven.apache.org/plugins/maven-shade-plugin/).| https://www.javassist.org |
 | org.tinylog:tinylog-api                  | 2.7.0                | [Apache License 2.0](/doc/licenses/ApacheLicense2.0.txt)  |Information according to section 4b: Packages and classfiles of the library were renamed for technical reasons. This is also known as "shading" and was done via the [Maven Shade plugin](https://maven.apache.org/plugins/maven-shade-plugin/).| https://tinylog.org |
 | org.tinylog:tinylog-impl                 | 2.7.0                | [Apache License 2.0](/doc/licenses/ApacheLicense2.0.txt)  |Information according to section 4b: Packages and classfiles of the library were renamed for technical reasons. This is also known as "shading" and was done via the [Maven Shade plugin](https://maven.apache.org/plugins/maven-shade-plugin/).| https://tinylog.org |
+| apiguardian:api                | 1.1.2                | [Apache License 2.0](/doc/licenses/ApacheLicense2.0.txt)  || https://github.com/apiguardian-team/apiguardian |
+| hamcrest:core                | 1.3               | [BSD](/doc/licenses/LICENSE-hamcrest.txt)  || https://hamcrest.org/JavaHamcrest/ |
+| opentest4j               | 1.3.0               | [Apache License 2.0](/doc/licenses/ApacheLicense2.0.txt)  || https://github.com/ota4j-team/opentest4j  |
+
 
