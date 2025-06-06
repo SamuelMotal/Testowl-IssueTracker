@@ -220,5 +220,10 @@ Tests are executed with the Testowl test runner itself. No build framework such 
 | Library                      | Version      | License                     | Notes                      |
 | :--------------------------- | :----------- | :-------------------------- | :------------------------- |
 | Junit                        | 4.13.2       | [Eclipse Public License - v 1.0](/doc/licenses/LICENSE-junit.txt)  ||
-
+| junit-jupiter-api            | 5.11.4       | [Eclipse Public License - v 2.0](/doc/licenses/LICENSE-junit5.txt)  ||
+| junit-jupiter-engine         | 5.11.4       | [Eclipse Public License - v 2.0](/doc/licenses/LICENSE-junit5.txt)  ||
+| junit-vintage-engine         | 5.11.4       | [Eclipse Public License - v 2.0](/doc/licenses/LICENSE-junit5.txt)  ||
+| junit-jupiter-params         | 5.11.4       | [Eclipse Public License - v 2.0](/doc/licenses/LICENSE-junit5.txt)  ||
+| junit-platform-launcher      | 1.11.4       | [Eclipse Public License - v 2.0](/doc/licenses/LICENSE-junit5.txt)  ||
+| junit-platform-engine        | 1.11.4       | [Eclipse Public License - v 2.0](/doc/licenses/LICENSE-junit5.txt)  ||
 
