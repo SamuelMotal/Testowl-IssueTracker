@@ -242,5 +242,5 @@ Tests are executed with the Testowl test runner itself. No build framework such 
 | apiguardian:api                | 1.1.2                | [Apache License 2.0](/doc/licenses/ApacheLicense2.0.txt)  || https://github.com/apiguardian-team/apiguardian |
 | hamcrest:core                | 1.3               | [BSD](/doc/licenses/LICENSE-hamcrest.txt)  || https://hamcrest.org/JavaHamcrest/ |
 | opentest4j               | 1.3.0               | [Apache License 2.0](/doc/licenses/ApacheLicense2.0.txt)  || https://github.com/ota4j-team/opentest4j  |
-
+| com.google.errorprone:error_prone_annotations              | 2.27.0              | [Apache License 2.0](/doc/licenses/ApacheLicense2.0.txt)  |Information according to section 4b: Packages and classfiles of the library were renamed for technical reasons. This is also known as "shading" and was done via the [Maven Shade plugin](https://maven.apache.org/plugins/maven-shade-plugin/).| https://github.com/ota4j-team/opentest4j  |
 
