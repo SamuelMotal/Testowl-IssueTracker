@@ -217,6 +217,7 @@ Tests are executed with the Testowl test runner itself. No build framework such 
 
 ## Open source Libraries and Licenses
 
+
 | Library                      | Version      | License                     | Notes                      |
 | :--------------------------- | :----------- | :-------------------------- | :------------------------- |
 | junit                        | 4.13.2       | [Eclipse Public License - v 1.0](/doc/licenses/LICENSE-junit.txt)  ||
@@ -230,3 +231,4 @@ Tests are executed with the Testowl test runner itself. No build framework such 
 | asm                          | 9.7.1        | [BSD 3-clause](/doc/licenses/LICENSE-asm.txt)  ||
 | asm-commons                  | 9.7.1        | [BSD 3-clause](/doc/licenses/LICENSE-asm.txt)  ||
 | asm-util                     | 9.7.1        | [BSD 3-clause](/doc/licenses/LICENSE-asm.txt)  ||
+| commons-lang3                | 3.17.0       | [Apache License 2.0](/doc/licenses/ApacheLicense2.0.txt)  |1. NOTICE txt file according to section 4d: [NOTICE.txt](/doc/licenses/commons-lang/NOTICE.txt) <br> 2. Information according to section 4b: Packages and classfiles of the library were renamed for technical reasons. This is also known as "shading" and was done via the [Maven Shade plugin](https://maven.apache.org/plugins/maven-shade-plugin/).|
