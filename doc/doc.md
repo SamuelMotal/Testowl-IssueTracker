@@ -213,4 +213,4 @@ Tests are executed with the Testowl test runner itself. No build framework such 
 
 ## Further Resources
 
-**Testowl product video** https://youtu.be/_bDQ2y3zFMs
+[Testowl product video](https://youtu.be/_bDQ2y3zFMs)
