@@ -214,3 +214,11 @@ Tests are executed with the Testowl test runner itself. No build framework such 
 ## Further Resources
 
 [Testowl product video](https://youtu.be/_bDQ2y3zFMs)
+
+## Open source Libraries and Licenses
+
+| Library                      | Version      | License                     | Notes                      |
+| :--------------------------- | :----------- | :-------------------------- | :------------------------- |
+| Junit                        | 4.13.2       | [Eclipse Public License - v 1.0](/licenses/LICENSE-junit.txt)  ||
+
+
