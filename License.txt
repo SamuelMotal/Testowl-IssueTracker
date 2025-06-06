@@ -1,0 +1,39 @@
+
+End User License Agreement of Testowl (“EULA”)
+
+“Developer” means the author of Testowl: Samuel Motal, Pechrerstraße 12, 4020 Linz, Austria.
+
+“Documentation” means the latest versions of all online technical documentation available for a Plugin at JetBrains Marketplace and any other relevant Plugin documentation provided either by JetBrains or the Developer that applies to the Plugin.
+
+"JetBrains" means JetBrains s.r.o., which has its registered office at Na Hřebenech II 1718/8, Prague, 14000, Czech Republic, registered with the Commercial Register kept by the Municipal Court of Prague, Section C, file 86211, ID.Nr.: 265 02 275.
+
+"JetBrains Affiliate" means the subsidiary and/or any associated companies of JetBrains.
+
+"JetBrains Marketplace" means any platform operated by JetBrains or a JetBrains Affiliate on which JetBrains or JetBrains Affiliate markets Plugins for JetBrains Products, including the website https://plugins.jetbrains.com and/or any other website or other platform, whether named JetBrains Marketplace, JetBrains Plugins Repository, or otherwise.
+
+"JetBrains Product" means any software program or service made available by JetBrains.
+
+“Paid Plugin” means a Plugin that is offered for a fee (can be either a one-time license fee or a recurring subscription fee).
+
+"Plugin" means any plugin, extension, application, widget, or other software program designed to work with JetBrains Products that the Developer makes available under this Standard EULA.
+
+"Plugin Users" means users that are able to access and use the Plugin concurrently.
+
+"You" means an individual or an entity concluding this Standard EULA.
+
+This EULA governs the terms of use of the Plugin made available to you via the JetBrains Plugin Marketplace Service. This EULA is entered into between You and the creator of the Plugin (“Developer”). JetBrains does not and will not have any responsibility or liability related (i) to Your compliance or non‐compliance with the EULA or (ii) to Your use of the Plugin.
+
+If the Plugin is a Paid Plugin, you must ensure that the maximum number of users that are able to access and use the Plugin concurrently ("Plugin Users") does not exceed the number of Plugin Users for which you have ordered the Plugin and paid the price.
+
+You are authorized to use the Plugin in accordance with its documentation provided by Developer and for the period of time specified by Developer.
+
+You may not modify, reverse engineer, decompile or disassemble the Plugin in whole or in part, or create any derivative works from or sublicense any rights in the Plugin, unless otherwise expressly authorized in writing by the Developer
+
+The Plugin is protected by copyright and other intellectual property laws and treaties. The Developer owns all title, copyright and other intellectual property rights in the Plugin.
+
+ALL PLUGINS ARE PROVIDED TO YOU ON AN "AS IS" AND "AS AVAILABLE" BASIS WITHOUT WARRANTIES. USE OF THE PRODUCTS IS AT YOUR OWN RISK. DEVELOPER MAKES NO WARRANTY AS TO ITS USE OR PERFORMANCE. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, DEVELOPER DISCLAIMS ALL OTHER WARRANTIES AND CONDITIONS, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT, WITH REGARD TO THE PLUGINS, AND THE PROVISION OF OR FAILURE TO PROVIDE SUPPORT SERVICES. DEVELOPER DOES NOT WARRANT THAT THE PLUGINS ARE ACCURATE, RELIABLE OR CORRECT; THAT THE PLUGIN WILL MEET YOUR REQUIREMENTS; THAT THE PLUGIN WILL BE AVAILABLE AT ANY PARTICULAR TIME OR LOCATION, UNINTERRUPTED OR SECURE; THAT ANY DEFECTS OR ERRORS WILL BE CORRECTED; OR THAT THE PLUGINS ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS.
+
+IN NO EVENT WILL THE DEVELOPER BE LIABLE FOR ANY DIRECT OR INDIRECT COSTS, LOSSES OR DAMAGES ASSOCIATED WITH THE USE OF DEVELOPER PLUGINS.
+
+DEVELOPER SHALL NOT BE LIABLE TO YOU FOR ANY LOST PROFITS OR CONSEQUENTIAL DAMAGES, HOWEVER CAUSED AND, IN NO EVENT WILL THE DEVELOPER’S AGGREGATE LIABILITY ARISING OUT OF OR RELATED TO THIS AGREEMENT OR THE USE OF THE PLUGIN, EXCEED THE FEES WHICH YOU PAID VIA THE JETBRAINS PLUGIN MARKETPLACE SERVICE FOR THE PLUGINS IN THE THREE-MONTH PERIOD PRECEDING THE CLAIM. THIS LIMITATION WILL APPLY EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF THE LIABILITY EXCEEDING THE AMOUNT AND NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY LIMITED REMEDY
+
