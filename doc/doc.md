@@ -2,7 +2,7 @@
 
 # Testowl
 
-Testowl is a continous test runner that runs only unit tests that are impacted by current code changes. 
+Testowl is a continuous test runner that runs only unit tests that are impacted by current code changes. 
 
 **This is an early access version. Please note that the plugin is not yet in a stable state and bugs are to be expected.
 The plugin will be available for a fee at a later date(as a "paid plugin").
@@ -50,7 +50,7 @@ Go to **Settings -> Plugins**. Click the settings icon at the top of the window 
 
 
 
-5) If the Autbuild is working all classes will be compiled by the autobuild. The Testowl plugin then analyzes classes and source files and searches for test classes in the project. This can take a while for larger projects. The project status bar (bottom right in the IDE) displays “Initializing continues test runner” or alternatively “Running tests”.
+5) If the Autbuild is working all classes will be compiled by the autobuild. The Testowl plugin then analyzes classes and source files and searches for test classes in the project. This can take a while for larger projects. The project status bar (bottom right in the IDE) displays “Initializing continuous test runner” or alternatively “Running tests”.
 
 6) Once initialization is complete, all tests of the project are initially executed. For changes that happen afterwards, only a subset (only relevant tests) is executed.
 
