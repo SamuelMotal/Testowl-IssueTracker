@@ -6,7 +6,7 @@ Testowl is a continuous test runner that runs only unit tests that are impacted 
 
 **This is an early access version. Please note that the plugin is not yet in a stable state and bugs are to be expected.
 The plugin will be available for a fee at a later date(as a "paid plugin").
-Until then, the early access version of the plugin can be used free of charge.**
+Until then, the early access version of the plugin can be used free of charge under the conditions of the [LICENSE](/License.txt).**
 
 
 ## Getting Started
