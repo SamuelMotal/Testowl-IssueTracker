@@ -219,11 +219,14 @@ Tests are executed with the Testowl test runner itself. No build framework such 
 
 | Library                      | Version      | License                     | Notes                      |
 | :--------------------------- | :----------- | :-------------------------- | :------------------------- |
-| Junit                        | 4.13.2       | [Eclipse Public License - v 1.0](/doc/licenses/LICENSE-junit.txt)  ||
+| junit                        | 4.13.2       | [Eclipse Public License - v 1.0](/doc/licenses/LICENSE-junit.txt)  ||
 | junit-jupiter-api            | 5.11.4       | [Eclipse Public License - v 2.0](/doc/licenses/LICENSE-junit5.md)  ||
 | junit-jupiter-engine         | 5.11.4       | [Eclipse Public License - v 2.0](/doc/licenses/LICENSE-junit5.md)  ||
 | junit-vintage-engine         | 5.11.4       | [Eclipse Public License - v 2.0](/doc/licenses/LICENSE-junit5.md)  ||
 | junit-jupiter-params         | 5.11.4       | [Eclipse Public License - v 2.0](/doc/licenses/LICENSE-junit5.md)  ||
 | junit-platform-launcher      | 1.11.4       | [Eclipse Public License - v 2.0](/doc/licenses/LICENSE-junit5.md)  ||
 | junit-platform-engine        | 1.11.4       | [Eclipse Public License - v 2.0](/doc/licenses/LICENSE-junit5.md)  ||
-
+| junit-platform-engine        | 1.11.4       | [Eclipse Public License - v 2.0](/doc/licenses/LICENSE-junit5.md)  ||
+| asm                          | 9.7.1        | [BSD 3-clause](/doc/licenses/LICENSE-asm.txt)  ||
+| asm-commons                  | 9.7.1        | [BSD 3-clause](/doc/licenses/LICENSE-asm.txt)  ||
+| asm-util                     | 9.7.1        | [BSD 3-clause](/doc/licenses/LICENSE-asm.txt)  ||
