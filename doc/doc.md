@@ -21,16 +21,13 @@ Go to **Settings -> Plugins**. Click the settings icon at the top of the window 
    Add the following repository:
 
    ```
-   https://plugins.jetbrains.com/plugins/eap/<pluginId>
-   ``` 
-   
+   https://plugins.jetbrains.com/plugins/eap/io.testowl.testowl-plugin
+   ```
+   ![screenshot_plugin_repositories](https://github.com/user-attachments/assets/903ff5b7-03d1-4803-bdbc-55fc1c5c815a)
 
-   > TODO REPLACE PLUGINID with real pluginId(can be derived from marketplace should be a nr.
-   
-   > TODO Add SCREENSHOT WERE THE CORRECT REPOSITORY URL WAS ADDED UNDER MANAGE REPOSITORIES
-   
-   > TODO make a dry run: Install plugin from marketplace and document it here
+2) Now search for Testowl and click install.
 
+3) Continue with this tutorial at "Start working with Testowl after installation".
 
 
 ### Start working with Testowl after installation
