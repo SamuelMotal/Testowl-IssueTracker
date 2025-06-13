@@ -37,15 +37,17 @@ Go to **Settings -> Plugins**. Click the settings icon at the top of the window 
 1) After installation, you will find the Testowl icon on the right-hand side of the IDE.
    Click on the icon to open the tool window. At this point, no tests may be displayed in the tool window.
    
-   ![getting_started_tool_window_small](https://github.com/user-attachments/assets/dc270c4e-d0c1-488d-bdc7-5b23d523f5ed)
+   ![447566487-dc270c4e-d0c1-488d-bdc7-5b23d523f5ed](https://github.com/user-attachments/assets/19ad3d1c-416d-4502-9373-212207a9a356)
+
 
 3) The plugin activates the autobuild feature of the IDE. This is required to run tests automatically. Check in the Autobuild Tool window whether the project has been built successfully. In the OK case, the following is displayed: “No compilation problems found”
 
-   ![getting_started_autobuild_ok](https://github.com/user-attachments/assets/ffec80f3-77af-4ff3-863b-3193db8d375d)
+   ![autobuild](https://github.com/user-attachments/assets/e68f286f-ba73-4b69-94d5-ed2dc7611c92)
 
     In some cases to make the autbuild work initially a rebuild of the project is required. If you see error messages in the Autobuild window, carry out a          rebuild (**Build -> Rebuild Project**).
 
-   ![getting_started_autobuild_nok](https://github.com/user-attachments/assets/6cd9ec27-4adc-46af-83cd-5249b58656e1)
+   ![autobuild_error](https://github.com/user-attachments/assets/1407b6b4-7dc0-40ff-9ecc-4c79c34b8ee8)
+
 
 
 
@@ -70,12 +72,13 @@ If autobuild is enabled, IntelliJ IDEA compiles the sources whenever source file
 
 To do this, open **Settings -> System Settings** and enter 1 second under **Autosave -> “Save files if the IDE is idle for“**.
 
-<img width="425" alt="getting_started_save_time" src="https://github.com/user-attachments/assets/21a38f9a-2514-4f71-9b27-8059ab2fa1dc" />
+<img width="425" alt="perfromance_tuning1" src="https://github.com/user-attachments/assets/af2ede30-4089-49b4-b57b-aba2f2b4db50" />
 
 
 The idle time can be shortened even further by reducing the value **"compiler.document.save.trigger.delay ”** in the IntelliJ IDEA registry. However, the value should not be configured below 500ms.  The registry can be opened with the Search everywhere menu (2x Shift) and search for “Registry”. 
 
-<img width="425" alt="getting_started_autobuild_trigger_delay" src="https://github.com/user-attachments/assets/edaf4071-2006-427f-9894-0057cafc91f0" />
+<img width="425" alt="performance_tuning2" src="https://github.com/user-attachments/assets/b46b4660-c117-4d5f-ae1b-790dbb13b970" />
+
 
 **Congratulations you successfully installed and setup the Testowl plugin!**   
 
@@ -86,15 +89,15 @@ The idle time can be shortened even further by reducing the value **"compiler.do
 
 A line that is covered by any test in your project is marked with a green (only successful tests) or a red (at least one faulty test). This enables focused work on the code without having to perform a context switch, as the most relevant information (tests OK or tests not OK) is always present in the editor. 
 
-![screenshot_live_coverage_small](https://github.com/user-attachments/assets/7500825d-8442-461f-8203-7181cb7c02c5)
-
+![coverage_markers](https://github.com/user-attachments/assets/be336e21-9ebf-4564-9044-007f5d47bf11)
 
 
 ### Show covering Tests
 
 Clicking on a coverage marker opens a list of all test cases that cover this line. This not only provides detailed insights into the code coverage, but also enables quick navigation between production and test code.
 
-![screenshot_show_covering_tests_small](https://github.com/user-attachments/assets/eea2e86b-7e1c-4d09-91a1-989ca586d8fa)
+![show_covering_tests](https://github.com/user-attachments/assets/904a6a93-897d-40af-a690-0c306eeff388)
+
 
 ### Tool Window
 
@@ -104,7 +107,8 @@ While the coverage markers provide an overview of the test status of the code cu
 
 This button enables a complete reset of the plugin for this project. This means that all classes are reanalyzed and all tests are executed again. For larger projects, a reset can take a while.
 
-![screenshot_tool_window_small](https://github.com/user-attachments/assets/ab6ec5b3-a17e-41e1-b8b4-75890d38880a)
+![tool_window](https://github.com/user-attachments/assets/88922ec2-a04f-46b5-85ad-08639d8d519b)
+
 
 ## Plugin Configuration
 The configuration can be used to change the working directory, define the log level, specify additional JVM parameters, or set the timeout of tests. To customize the plugin configuration, a file **“testowl.properties”** must be created in the root directory of the project. If required, the file can also be committed (and pushed) so that other team members can use the same configuration. 
