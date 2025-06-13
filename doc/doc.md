@@ -16,7 +16,8 @@ Until then, the early access version of the plugin can be used free of charge un
 1) To be able to download and install Testowl from the Jetbrains Marketplace you first need to the eap release channel of Testowl to your repsitories.
 Go to **Settings -> Plugins**. Click the settings icon at the top of the window and choose *"Manage plugin repositories"*.
 
-   ![plugins-manageRepositories](https://github.com/user-attachments/assets/f491c26a-a630-45cb-97d6-7cf320593863)
+  ![manageRepositories](https://github.com/user-attachments/assets/f75dc329-aaf0-4038-b3ca-08a22598babd)
+
 
    Add the following repository:
 
