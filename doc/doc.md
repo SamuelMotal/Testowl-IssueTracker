@@ -24,7 +24,8 @@ Go to **Settings -> Plugins**. Click the settings icon at the top of the window 
    ```
    https://plugins.jetbrains.com/plugins/eap/io.testowl.testowl-plugin
    ```
-   ![screenshot_plugin_repositories](https://github.com/user-attachments/assets/903ff5b7-03d1-4803-bdbc-55fc1c5c815a)
+   ![452551860-903ff5b7-03d1-4803-bdbc-55fc1c5c815a](https://github.com/user-attachments/assets/9cd883f9-3fb9-4fb4-b7d0-ad1ca08bc045)
+
 
 2) Now search for Testowl and click install.
 
